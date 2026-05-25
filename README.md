@@ -110,6 +110,7 @@ Jan 15 03:01:12 server useradd[9988]: new user: name=backdoor
 
 ## Demo Images
 | | |
+|---|---|
 | ![LPT_1](demo_images/LPT_1.png) | ![LPT_1](demo_images/LPT_2.png) |
 | ![LPT_1](demo_images/LPT_3.png) |  |
 
