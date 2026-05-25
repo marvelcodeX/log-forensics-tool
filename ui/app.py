@@ -166,6 +166,7 @@ class App(ctk.CTk):
     def _on_report_ready(self, report: Report):
         self.report = report
         self._hide_progress()
+        self.sidebar.load(report)
         self.findings_panel.load(report)
         self.timeline_panel.load(report)
 
