@@ -108,14 +108,6 @@ Jan 15 03:01:12 server useradd[9988]: new user: name=backdoor
 
 ---
 
-## Demo Images
-| | |
-|---|---|
-| ![LPT_1](demo_images/LPT_1.png) | ![LPT_1](demo_images/LPT_2.png) |
-| ![LPT_1](demo_images/LPT_3.png) |  |
-
----
-
 ## 🛠 Tech Stack
 
 - **Python 3.11+**
@@ -123,6 +115,15 @@ Jan 15 03:01:12 server useradd[9988]: new user: name=backdoor
 - `tkinter` Canvas — timeline rendering
 - `urllib` — IP geolocation (stdlib, no extra deps)
 - `re`, `collections`, `datetime` — all stdlib
+
+---
+
+## Demo Images
+| | |
+|---|---|
+| ![LPT_1](demo_images/LPT_1.png) | ![LPT_1](demo_images/LPT_2.png) |
+| ![LPT_1](demo_images/LPT_3.png) |  |
+
 
 ---
 
